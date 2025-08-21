@@ -1,6 +1,6 @@
 When designing a custom LLM-based agent, the first question to ask is 'How can my model
 outperform a publicly available out-of-the-box model?' Most of the prompts listed under 
-Requirements 1f (ii, iii, iv, and vi) are all handled perfectly well by ChatGPT, so I 
+Requirements 1f (ii, iii, iv, and vi) are handled perfectly well by ChatGPT, so I 
 focused the bulk of my effort on building a model with special ability to answer the first 
 prompt ('Given [list of criteria], what companies should I consider?'). Un-customized models 
 struggle with that sort of prompt that implicitly invoke a formula; they have no native means to efficiently 
